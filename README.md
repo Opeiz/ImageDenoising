@@ -1,5 +1,6 @@
 # ImageDenoising
 
+## Visual Comparison
 Repo dedicated for the visual comparison of Denoising classic method like
 
 - Gaussian filter
@@ -7,6 +8,13 @@ Repo dedicated for the visual comparison of Denoising classic method like
 - Non-Local Means filter
 - Anisotropic difussion filter
 - K-SVD
+
+## Numerical Comparison
+For the numerical comparison, we use:
+
+- PSNR, Peak Signal noise ratio
+- SSIM, Structural Similarity
+- MSE, Mean Square error
 
 # Usage
 
