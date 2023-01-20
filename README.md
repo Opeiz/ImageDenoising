@@ -29,6 +29,6 @@ There's no good documentation about using k-svd in python, I found a [yspMing re
 That's why the k-svd images used in the jupyter notebook are from the IPOL C++ implementation. `./images`
 
 If you want to check the C++ code, under `./ksvd_src_IPOL` you will find the C++ source code used in the link page.
-
+s
 # Links
 [IPOL Paper with K-SVD C++ Implementation](https://ipolcore.ipol.im/demo/clientApp/demo.html?id=58&key=11B678CB731EC80E602F6BA634886C2E)
